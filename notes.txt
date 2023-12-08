@@ -5,3 +5,23 @@ Timestamp: 3:35:18
 Google DOC: https://docs.google.com/document/d/19XMyd5zCk7S9QT2q1_Cg-wvbnBwOge7EgzgvtVCgcz0/edit?pli=1
 
 Tutor side of repo: https://github.com/omenking/aws-bootcamp-cruddur-2023/blob/main/.gitpod.yml
+
+
+
+
+
+Additional resources: 
+Lucid Diagram: https://lucid.app/documents#/documents?folder_id=recent
+HoneyComb: https://ui.honeycomb.io/thesagarmatha/environments/test/send-data
+Rollbar: https://app.rollbar.com/a/sagar.chamlagai/FirstProject/onboarding/embark
+Gitpod: https://www.gitpod.io
+Momento: https://www.gomomento.com
+
+
+Others: 
+W3School: https://www.w3schools.com
+A Cloud Guru: https://learn.acloud.guru
+Boot dev for Go assignments: https://www.boot.dev/assignments/224252be-adc9-452f-8ed0-0b305b25d0cb
+Boot dev for Python Assignments: https://www.boot.dev/assignments/78b4646f-85aa-42c7-ba46-faec2f0902a9 
+
+
